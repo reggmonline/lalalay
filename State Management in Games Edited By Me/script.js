@@ -1,6 +1,6 @@
-import Player from './player.js';
-import InputHandler from './input.js';
-import {drawStatusText} from './utils.js';
+import Player from 'https://cdn.jsdelivr.net/gh/reggmonline/lalalay/State Management in Games Edited By Me/player.js';
+import InputHandler from 'https://cdn.jsdelivr.net/gh/reggmonline/lalalay/State Management in Games Edited By Me/input.js';
+import {drawStatusText} from 'https://cdn.jsdelivr.net/gh/reggmonline/lalalay/State Management in Games Edited By Me/utils.js';
 
 window.addEventListener('load', function(){
     const loading = document.getElementById('loading');

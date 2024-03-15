@@ -3,7 +3,7 @@ import {
     SittingLeft, SittingRight,
     RunningLeft, RunningRight,
     JumpingLeft, JumpingRight,
-    FallingLeft, FallingRight, } from './state.js';
+    FallingLeft, FallingRight, } from 'https://cdn.jsdelivr.net/gh/reggmonline/lalalay/State Management in Games Edited By Me/state.js';
 
 export default class Player {
     constructor(gameWidth, gameHeight) {
